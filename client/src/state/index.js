@@ -45,3 +45,4 @@ export const appSlice = createSlice({
 });
 
 export const { setMode, setLogin, setLogout, setFriends, setPosts, setPost } = appSlice.actions;
+export default appSlice.reducer;
