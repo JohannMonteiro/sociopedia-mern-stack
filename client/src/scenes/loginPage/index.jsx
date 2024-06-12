@@ -28,7 +28,7 @@ const LoginPage = () => {
         <Typography fontWeight="500" variant="h5" sx={{mb : "1.5rem"}}>
           Welcom to Sociepedia, Please login to continue...
         </Typography>
-
+        <Form />
       </Box>
     </Box>
   );
